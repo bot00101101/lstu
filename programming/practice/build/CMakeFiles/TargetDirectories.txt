@@ -1,3 +1,0 @@
-/home/neuronet/data/Projects/lgtu/programming/practice/build/CMakeFiles/main.dir
-/home/neuronet/data/Projects/lgtu/programming/practice/build/CMakeFiles/edit_cache.dir
-/home/neuronet/data/Projects/lgtu/programming/practice/build/CMakeFiles/rebuild_cache.dir
