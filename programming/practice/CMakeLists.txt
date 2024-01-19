@@ -4,5 +4,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(
     ${PROJECT_NAME}
-    "src/lstu-1/A.cpp"
+    "src/lstu-6/I.cpp"
 )
