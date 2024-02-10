@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/neuronet/data/lstu/programming/practice/build",
-  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/main.dir/src/lstu-6/I.cpp.o -c /home/neuronet/data/lstu/programming/practice/src/lstu-6/I.cpp",
-  "file": "/home/neuronet/data/lstu/programming/practice/src/lstu-6/I.cpp",
-  "output": "CMakeFiles/main.dir/src/lstu-6/I.cpp.o"
-}
-]
